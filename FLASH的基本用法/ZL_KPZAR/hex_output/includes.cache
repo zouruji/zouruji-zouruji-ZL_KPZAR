@@ -1,0 +1,47 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "F:\\SVN_CODE\\Mixly_WIN\\arduino\\hardware\\arduino\\avr\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "F:\\SVN_CODE\\Mixly_WIN\\arduino\\hardware\\arduino\\avr\\variants\\standard"
+  },
+  {
+    "Sourcefile": "\\\\tb-pc\\产品资料\\001-线上产品\\103-DIY电控系统\\002 开源控制器\\003-ZL-KPZAR（开源开拓者Arduino控制器）\\03-源码例程\\例程05————FLASH的基本用法\\ZL_KPZAR\\hex_output\\sketch\\ZL_KPZAR.ino.cpp",
+    "Include": "winbondflash.h",
+    "Includepath": "F:\\SVN_CODE\\Mixly_WIN\\arduino\\portable\\sketchbook\\libraries\\ZLTech_winbondflash"
+  },
+  {
+    "Sourcefile": "\\\\tb-pc\\产品资料\\001-线上产品\\103-DIY电控系统\\002 开源控制器\\003-ZL-KPZAR（开源开拓者Arduino控制器）\\03-源码例程\\例程05————FLASH的基本用法\\ZL_KPZAR\\hex_output\\sketch\\ZL_KPZAR.ino.cpp",
+    "Include": "SPI.h",
+    "Includepath": "F:\\SVN_CODE\\Mixly_WIN\\arduino\\hardware\\arduino\\avr\\libraries\\SPI\\src"
+  },
+  {
+    "Sourcefile": "\\\\tb-pc\\产品资料\\001-线上产品\\103-DIY电控系统\\002 开源控制器\\003-ZL-KPZAR（开源开拓者Arduino控制器）\\03-源码例程\\例程05————FLASH的基本用法\\ZL_KPZAR\\hex_output\\sketch\\ZL_KPZAR.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "F:\\SVN_CODE\\Mixly_WIN\\arduino\\portable\\sketchbook\\libraries\\ZLTech_winbondflash\\winbondflash.cpp",
+    "Include": "Metro.h",
+    "Includepath": "F:\\SVN_CODE\\Mixly_WIN\\arduino\\portable\\sketchbook\\libraries\\ZLTech_Metro"
+  },
+  {
+    "Sourcefile": "F:\\SVN_CODE\\Mixly_WIN\\arduino\\portable\\sketchbook\\libraries\\ZLTech_winbondflash\\winbondflash.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "F:\\SVN_CODE\\Mixly_WIN\\arduino\\hardware\\arduino\\avr\\libraries\\SPI\\src\\SPI.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "F:\\SVN_CODE\\Mixly_WIN\\arduino\\portable\\sketchbook\\libraries\\ZLTech_Metro\\Metro.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
